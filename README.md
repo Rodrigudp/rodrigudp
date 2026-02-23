@@ -1,7 +1,9 @@
 # Readme
 <img src="https://elascodam.wordpress.com/wp-content/uploads/2021/08/joan-gamell-zs67i1hlllo-unsplash.jpg?w=1024" alt="Exemplo de codigo" min-width="400px" max-width="400px" width="400px" align="right">
 <div> 
-	Meu nome é Rodrigo Del Padre, estou cursando Engenharia de Software na Unicesumar, estou focando em meus estudos acadêmicos e aprender linguagem C e Java, atualmente trabalho com vendas, mas estou buscando uma oportunidade de entrada no mercado tecnologico como programador
+	Meu nome é Rodrigo Del Padre e sou estudante de Engenharia de Software na Unicesumar, com foco em aprimorar minhas habilidades em linguagens de programação como C e Java. Além da minha formação acadêmica, dedico-me ao estudo aprofundado de Assembly e Engenharia Reversa, incluindo técnicas de ofuscação de código e bypass utilizando ferramentas como xdbg64 e Ghidra. Essa expertise demonstra minha paixão por compreender a fundo o funcionamento de sistemas e minha capacidade de análise em níveis de baixo nível.
+Atualmente, atuo na área de vendas, onde desenvolvi competências valiosas em comunicação, negociação e resolução de problemas. Busco agora uma transição de carreira para o mercado tecnológico, almejando uma oportunidade como programador, onde possa aplicar meu conhecimento técnico e minha dedicação para contribuir com projetos inovadores e desafiadores.
+Estou entusiasmado em integrar uma equipe que valorize o aprendizado contínuo e a excelência técnica, e estou pronto para demonstrar meu potencial e minha paixão pela programação.
 
 <div/>
  
@@ -11,6 +13,8 @@
 </div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+    <img loading="lazy" src=" https://avatars.githubusercontent.com/u/7937360?v=4" width="40" height="40"/>
+
 </div>
 
 
