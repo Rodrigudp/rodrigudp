@@ -5,6 +5,7 @@
 Atualmente, atuo na área de vendas, onde desenvolvi competências valiosas em comunicação, negociação e resolução de problemas. Busco agora uma transição de carreira para o mercado tecnológico, almejando uma oportunidade como programador, onde possa aplicar meu conhecimento técnico e minha dedicação para contribuir com projetos inovadores e desafiadores.
 Estou entusiasmado em integrar uma equipe que valorize o aprendizado contínuo e a excelência técnica, e estou pronto para demonstrar meu potencial e minha paixão pela programação.
 
+
 <div/>
  
   <div>
@@ -13,7 +14,6 @@ Estou entusiasmado em integrar uma equipe que valorize o aprendizado contínuo e
 </div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-    <img loading="lazy" src=" https://avatars.githubusercontent.com/u/7937360?v=4" width="40" height="40"/>
 
 </div>
 
