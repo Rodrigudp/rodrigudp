@@ -1,27 +1,17 @@
-# Readme
-<img src="https://elascodam.wordpress.com/wp-content/uploads/2021/08/joan-gamell-zs67i1hlllo-unsplash.jpg?w=1024" alt="Exemplo de codigo" min-width="400px" max-width="400px" width="400px" align="right">
-<div> 
-	Meu nome é Rodrigo Del Padre e sou estudante de Engenharia de Software na Unicesumar, com foco em aprimorar minhas habilidades em linguagens de programação como C e Java. Além da minha formação acadêmica, dedico-me ao estudo aprofundado de Assembly e Engenharia Reversa, incluindo técnicas de ofuscação de código e bypass utilizando ferramentas como xdbg64 e Ghidra. Essa expertise demonstra minha paixão por compreender a fundo o funcionamento de sistemas e minha capacidade de análise em níveis de baixo nível.
-Atualmente, atuo na área de vendas, onde desenvolvi competências valiosas em comunicação, negociação e resolução de problemas. Busco agora uma transição de carreira para o mercado tecnológico, almejando uma oportunidade como programador, onde possa aplicar meu conhecimento técnico e minha dedicação para contribuir com projetos inovadores e desafiadores.
-Estou entusiasmado em integrar uma equipe que valorize o aprendizado contínuo e a excelência técnica, e estou pronto para demonstrar meu potencial e minha paixão pela programação.
+<h1 align="center">👋 Olá, eu sou o Rodrigo</h1>
+
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
 
-<div/>
- 
-  <div>
-  📖 <strong> Estudando: </strong></div>
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,php)](https://skillicons.dev)<br><br>
 
-</div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github)](https://skillicons.dev)<br><br>
 
-</div>
-
-
-
-## 📧 Contatos:
-
-<div>
+## 📫 Contato
 
   <a href="https://instagram.com/rodrigudp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rodrigo21437@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,17 +19,4 @@ Estou entusiasmado em integrar uma equipe que valorize o aprendizado contínuo e
 </div>
 
 
-<!--
-**Rodrigudp/rodrigudp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
